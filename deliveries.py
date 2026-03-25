@@ -1,6 +1,6 @@
 print("Homework Task 1: Deliveries")
 
-#Delieveries list with some deliveries having negative distance and some pending deliveries
+#Delieveries list e dhene nga detyra
 deliveries = [
     {"delivery_id": 1, "distance": 12, "status": "completed"},
     {"delivery_id": 2, "distance": -3, "status": "completed"},

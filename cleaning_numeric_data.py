@@ -11,7 +11,7 @@ def pastrimi(data):
     vlerat_e_pastra = []
     for v in data:
         try:
-            number = int(v)
+            number = int(v)#Konvertimi i vlerave qe do te ruhen ne integer
             vlerat_e_pastra.append(number)
         except ValueError:
             continue

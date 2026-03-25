@@ -17,3 +17,5 @@ def validimi(data):
     return valid_deliveries
 
 print("Deliveries valide:", validimi(deliveries))
+
+#OUTPUT : Deliveries valide: [{'delivery_id': 1, 'distance': 12, 'status': 'completed'}, {'delivery_id': 4, 'distance': 20, 'status': 'completed'}]

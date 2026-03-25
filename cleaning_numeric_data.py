@@ -17,3 +17,7 @@ def pastrimi(data):
             continue
     return vlerat_e_pastra
 print("Vlerat e pastruara:", pastrimi(values))
+
+#OUTPUT: Vlerat e pastruara: [50, 75, 100, 25]
+
+

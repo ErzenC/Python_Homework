@@ -22,4 +22,7 @@ try:
     print(validimi_distances(distance))
 except InvalidDistanceError as e:
     print("Error:",e)
-    
+
+#OUTPUT:
+#Shkruaj distancen: -5
+#Error: Distanca duhet te jete pozitive.
